@@ -1,0 +1,8 @@
+export const GET_LOGIN_DATA = "GET_LOGIN_DATA";
+export const GET_DASHBOARD_DATA = 'GET_DASHBOARD_DATA'
+export const GET_USER_LIST='GET_USER_LIST'
+export const GET_REGIS_DATA = 'GET_REGIS_DATA'
+export const GET_ERRORS = 'GET_ERRORS'
+export const GET_VIEW_USER = "GET_VIEW_USER";
+export const GET_USERDETAIL_DATA = 'GET_USERDETAIL_DATA'
+export const EDIT_DETAIL = 'EDIT_DETAIL '
